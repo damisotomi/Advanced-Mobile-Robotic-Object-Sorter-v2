@@ -4,7 +4,8 @@ An enhanced version of the Advanced mobile robot object sorter v1, featuring a P
 ## WHY IT WAS DEVELOPED
 Advanced-Mobile-Robotic-Object-Sorter v2 was developed to improve the initial version 1 by enhancing the robot's object detection and sorting accuracy and exploring concurrent task execution capabilities. This project was part of my advanced mechatronics course in the second year of the Mechanical Engineering master's program at New York University
   
-  ![image](https://github.com/damisotomi/Advanced-Mobile-Robotic-Object-Sorter-v1/assets/67606934/b3ebde0a-5c54-473c-946f-ea0ddf9fdaa8)
+![image](https://github.com/damisotomi/Advanced-Mobile-Robotic-Object-Sorter-v2/assets/67606934/df901d26-7315-44ba-9b46-70816c54d7b4)
+
   
 ## HOW IT WORKS
   -This advanced mobile robot sorter v2 has a single mode.
