@@ -9,8 +9,8 @@ Advanced-Mobile-Robotic-Object-Sorter v2 was developed to improve the initial ve
   
 ## HOW IT WORKS
   -This advanced mobile robot sorter v2 has a single mode.
- ### The robot moves on a black line using PID control with a QTR 8RC sensor, detects an object using the Pixy 2 camera at a certain distance, picks up the object and continues it 
- ### journey to the end of its predefined path and sorts the object based on color detected by the Pixy 2 camera
+  - The robot moves on a black line using PID control with a QTR 8RC sensor, detects an object using the Pixy 2 camera at a certain distance, picks up the object and continues it 
+  - journey to the end of its predefined path and sorts the object based on color detected by the Pixy 2 camera
 
 ### MICROCONTROLLER AND PROGRAMMING LANGUAGE USED
   - An A Propeller Microcontroller was used to build this project to allow concurrent task execution.
