@@ -30,7 +30,8 @@ Advanced-Mobile-Robotic-Object-Sorter v2 was developed to improve the initial ve
   - Utilized the Propeller microcontroller to run tasks concurrently on different processors, enhancing performance and reliability.
   - Robot self aligns itself to be at the center of the object and within a certain distance before picking the object after detection by the Pixy 2 camera
 
-### HOW TO USE
+### HOW TO USE or RUN
+  - Download and unzip the Project2.zip file and open the maincode.side file using the SimpleIDE applicaition
   - Create a black line path using black tape on a white surface for the robot to follow
   - Turn on the power switch of the motor driver of the assembled robot
   - Place an obstacle along the path of the robot visible enough for the Pixy 2 camera to see and the gripper to grip
