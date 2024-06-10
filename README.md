@@ -39,4 +39,4 @@ Advanced-Mobile-Robotic-Object-Sorter v2 was developed to improve the initial ve
   - watch as the robot moves along the path and picks up obstacles
 
 ### Live demo
-https://drive.google.com/file/d/1cc4JW4e6QYrdJFbAJBPed_cZVjnbdwr_/view?usp=sharing
+ [video demo](https://drive.google.com/file/d/1cc4JW4e6QYrdJFbAJBPed_cZVjnbdwr_/view?usp=sharing)
